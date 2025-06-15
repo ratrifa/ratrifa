@@ -1,4 +1,5 @@
 ## Hi there 👋 My name is Satria Febry
+you can call me ratrifa
 
 <!--
 **ratrifa/ratrifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
