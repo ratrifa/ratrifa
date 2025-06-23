@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Satria.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fansaa&label=Profile%20views&color=0e75b6&style=flat" alt="fansaa" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratrifaa&label=Profile%20views&color=0e75b6&style=flat" alt="fansaa" /></p>
 
 # 💫 About Me
 A student at Telkom University majoring in Informatics under the Faculty of Informatics. I have a strong interest in the world of programming, with a particular passion for web development. I enjoy creating user-friendly, responsive websites and continuously strive to improve my skills in both frontend and backend technologies.
