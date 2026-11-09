@@ -32,6 +32,7 @@ I'm Satria, a final-year Informatics student at **Telkom University**, Bandung. 
   <a href="https://github.com/ratrifa/validasi-qris"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=validasi-qris&theme=tokyonight&hide_border=true" alt="validasi-qris" /></a>
   <a href="https://github.com/ratrifa/SipDana-v3"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=SipDana-v3&theme=tokyonight&hide_border=true" alt="SipDana-v3" /></a>
   <a href="https://github.com/ratrifa/ceritaku"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=ceritaku&theme=tokyonight&hide_border=true" alt="ceritaku" /></a>
+  <a href="https://github.com/ratrifa/clipperOS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=clipperOS&theme=tokyonight&hide_border=true" alt="clipperOS" /></a>
 </p>
 
 | Project | What it is | Stack |
