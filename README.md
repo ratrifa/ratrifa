@@ -28,8 +28,6 @@ I'm Satria, a final-year Informatics student at **Telkom University**, Bandung. 
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ratrifa/fast-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=fast-backend&theme=tokyonight&hide_border=true" alt="fast-backend" /></a>
-  <a href="https://github.com/ratrifa/fast-frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=fast-frontend&theme=tokyonight&hide_border=true" alt="fast-frontend" /></a>
   <a href="https://github.com/ratrifa/mini-ddpm-cifar10"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=mini-ddpm-cifar10&theme=tokyonight&hide_border=true" alt="mini-ddpm-cifar10" /></a>
   <a href="https://github.com/ratrifa/validasi-qris"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=validasi-qris&theme=tokyonight&hide_border=true" alt="validasi-qris" /></a>
   <a href="https://github.com/ratrifa/SipDana-v3"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ratrifa&repo=SipDana-v3&theme=tokyonight&hide_border=true" alt="SipDana-v3" /></a>
