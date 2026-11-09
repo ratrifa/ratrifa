@@ -23,8 +23,6 @@ I'm Satria, a final-year Informatics student at **Telkom University**, Bandung. 
 
 ## 🚀 What I'm Working On
 
-- **[ratrifa.studio](https://ratrifa.studio)**: my portfolio CMS. Next.js frontend with a Laravel 13 REST API, JWT auth shared across both apps.
-- **FAST (Forum Alumni Telkom University)**: an alumni platform with an election/voting module. Two Go services (general API and a separate voting engine) on PostgreSQL, plus a Next.js 16 frontend.
 - **IFterview**: an interview management system for HIMA IF's *Hello World* volunteer recruitment, replacing the old spreadsheet workflow with role-based access, per-division scoring, and report export.
 
 ## 📌 Featured Projects
