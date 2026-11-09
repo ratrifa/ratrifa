@@ -23,7 +23,7 @@ I'm Satria, a final-year Informatics student at **Telkom University**, Bandung. 
 
 ## 🚀 What I'm Working On
 
-- **[IFterview](https://ifterview.ratrifa.cloud)**: an interview management system for HIMA IF's *Hello World* volunteer recruitment, replacing the old spreadsheet workflow with role-based access, per-division scoring, and report export.
+- **[IFterview](https://ifterview.ratrifa.cloud)**: a recruitment platform for HIMA IF Telkom University events. Candidates register and book interview slots online. Interviewers score them with per-division rubrics, and admins handle calibration, cross-division recommendations, final decisions, and exports. It also has AI features: CV summaries, interview summaries from transcripts, and question suggestions. Built with Next.js and a Laravel REST API.
 
 ## 📌 Featured Projects
 
